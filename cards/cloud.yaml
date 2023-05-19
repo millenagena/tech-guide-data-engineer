@@ -25,6 +25,7 @@ contents:
   - type: YOUTUBE
     title: "Mundo da Cloud: AWS do Zero ao Expert"
     link: https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz
+  alura-contents:
   - type: ARTICLE
     title: "Cloud: o que é, História e Guia da computação em nuvem"
     link: https://www.alura.com.br/artigos/cloud
