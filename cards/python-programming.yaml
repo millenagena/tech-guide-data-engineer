@@ -9,15 +9,12 @@ contents:
   - type: SITE 
     title: "Documentação do Python"
     link: https://docs.python.org/3/ 
-
   - type: ARTICLE
     title: "Introdução ao Python"
     link: https://medium.com/@goularteduarda.a/introdu%C3%A7%C3%A3o-ao-python-d30c29eba0d6 
-
   - type: ARTICLE
     title: "Programação | Python — Parte 1"
     link: https://medium.com/turing-talks/turing-talks-4-python-parte-1-29b8d9efd0a5
-
   - type: YOUTUBE
     title: "Eduardo Mendes: Curso introdutório de Python"
     link: https://www.youtube.com/watch?v=yTQDbqmv8Ho 
@@ -25,51 +22,39 @@ alura-contents:
   - type: ARTICLE
     title: "O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem"
     link: https://www.alura.com.br/artigos/python 
-
   - type: PODCAST
     title: "Python – Hipsters 122"
     link: https://www.hipsters.tech/python-hipsters-122/ 
-
   - type: PODCAST
     title: "Python Fluente – Hipsters Ponto Tech 179"
     link: https://www.hipsters.tech/python-fluente-hipsters-ponto-tech-179/ 
-
   - type: YOUTUBE
     title: "Alura: O que é Python?"
     link: https://www.youtube.com/watch?v=-LATVnPcvHI 
-
   - type: ARTICLE
     title: "O que é Python?"
     link: https://www.alura.com.br/artigos/o-que-e-python
-
   - type: ARTICLE
     title: "Python - Uma Introdução à Linguagem"
     link: https://www.alura.com.br/artigos/python-uma-introducao-a-linguagem
-
   - type: ARTICLE
     title: "Python: Trabalhando com precisão em números decimais"
     link: https://www.alura.com.br/artigos/precisao-numeros-decimais-python 
-
   - type: ARTICLE
     title: "Listas em Python: operações básicas"
     link: https://www.alura.com.br/artigos/listas-no-python  
-
   - type: ARTICLE
     title: "Como comparar objetos no Python?"
     link: https://www.alura.com.br/artigos/como-comparar-objetos-no-python 
-
   - type: ARTICLE
     title: "Python datetime: Como faço para definir data e hora em Python?"
     link: https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python 
-
   - type: COURSE
     title: "Formação Python com Orientação a Objetos"
     link: https://cursos.alura.com.br/formacao-Python-linguagem
-
   - type: COURSE
     title: "Curso Python 3: entendendo o Tratamento de Erros"
     link: https://cursos.alura.com.br/course/python-exceptions 
-
   - type: COURSE
     title: "Curso Python e TDD: explorando testes unitários"
     link: https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios
