@@ -1,7 +1,8 @@
 name: Orquestração de Data Pipelines
-
+logo:
 key-objectives:
   - A orquestração de data pipelines é um processo crucial na engenharia de dados que envolve o gerenciamento e a automação de fluxos de trabalho de dados. É através da orquestração que os pipelines de dados são configurados, programados e monitorados, garantindo a eficiência e a confiabilidade dos processos de extração, transformação e carga (ETL). Uma das ferramentas mais populares para orquestração de data pipelines é o Apache Airflow. Neste segmento, você aprenderá os fundamentos da orquestração de data pipelines, incluindo conceitos importantes, técnicas e melhores práticas.
+aditional-objectives:
 contents:
   - type: ARTICLE
     title: "Data Pipeline Orchestration"
