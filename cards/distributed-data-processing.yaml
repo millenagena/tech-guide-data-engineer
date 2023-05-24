@@ -3,6 +3,7 @@ logo:
 short-description:
 key-objectives:
   - Em processamento distribuído de dados usamos técnicas e ferramentas para realizar tarefas computacionais em um conjunto de máquinas conectadas, conhecido como cluster. Essas máquinas trabalham em conjunto para analisar e processar grandes volumes de dados de maneira mais eficiente do que seria possível em uma única máquina. O profissional pode usar várias ferramentas e frameworks para realizar esse trabalho, incluindo Apache Hadoop, Apache Spark e Databricks.
+aditional-objectives:
 contents:
   - type: SITE
     title: "O que é computação distribuída?"
