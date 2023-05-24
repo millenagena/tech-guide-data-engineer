@@ -20,6 +20,9 @@ contents:
     title: "Mauro de Boni: Curso de Teste de Software para iniciantes"
     link: https://www.youtube.com/watch?v=dc3DBWgt8gw&list=PLx6gdu4s3nkf4OcLZ--TgMCHr22H7TDCs 
   - type: ARTICLE
+    title: "Tutorial: Testes Unitários e Python — Parte I"
+    link: https://medium.com/mercos-engineering/tutorial-testes-unit%C3%A1rios-e-python-parte-i-bb77182db93f
+  - type: ARTICLE
     title: "Testes Unitários e Python — Parte II: Mocks, APIs & Star Wars"
     link: https://medium.com/mercos-engineering/testes-unit%C3%A1rios-e-python-parte-ii-mocks-apis-star-wars-ou-como-consumir-uma-api-rest-3a24d153db59 
 
