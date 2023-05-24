@@ -1,8 +1,9 @@
 name: Clouds
-
+logo:
 key-objectives:
   - Cloud Computing, ou computação em nuvem, refere-se ao fornecimento de serviços de computação — incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência — pela Internet ("a nuvem") para oferecer inovação mais rápida, recursos flexíveis e economias de escala. Existem três principais provedores de serviços de nuvem: Amazon Web Services (AWS), Google Cloud Platform (GCP) e Microsoft Azure. Cada um deles tem suas próprias forças e fraquezas, e todos eles oferecem uma ampla gama de serviços para atender às necessidades específicas de diferentes organizações.
   - A computação em nuvem transformou a maneira como as organizações operam, permitindo-lhes armazenar e processar grandes volumes de dados de maneira eficiente e econômica. Para os engenheiros de dados, a cloud computing oferece escalabilidade, flexibilidade e segurança para a coleta, processamento, armazenamento e análise de dados. Ela também facilita o desenvolvimento e a implantação de aplicações de dados, tornando-as mais rápidas e menos propensas a erros. Além disso, a computação em nuvem permite o acesso e a colaboração de dados em tempo real de qualquer lugar do mundo, uma característica fundamental na era do trabalho remoto. Como a maioria das organizações hoje está se movendo ou já está na nuvem, o conhecimento e a experiência em computação em nuvem tornaram-se habilidades essenciais para os engenheiros de dados.
+aditional-objectives:
 contents:
   - type: YOUTUBE
     title: "Gabs Ferreira: Por que investir e estudar cloud?"
