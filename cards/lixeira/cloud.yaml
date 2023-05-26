@@ -1,0 +1,57 @@
+name: Clouds
+logo: 
+short-description:
+key-objectives:
+  - Cloud Computing, ou computação em nuvem, refere-se ao fornecimento de serviços de computação incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência pela Internet para oferecer inovação mais rápida, recursos flexíveis e economias de escala. Existem três principais provedores de serviços de nuvem, sendo eles Amazon Web Services (AWS), Google Cloud Platform (GCP) e Microsoft Azure. Cada um deles tem suas próprias forças e fraquezas, e todos eles oferecem uma ampla gama de serviços para atender às necessidades específicas de diferentes organizações.
+  - A computação em nuvem transformou a maneira como as organizações operam, permitindo-lhes armazenar e processar grandes volumes de dados de maneira eficiente e econômica. Para os engenheiros de dados, a cloud computing oferece escalabilidade, flexibilidade e segurança para a coleta, processamento, armazenamento e análise de dados. Ela também facilita o desenvolvimento e a implantação de aplicações de dados, tornando-as mais rápidas e menos propensas a erros. Além disso, a computação em nuvem permite o acesso e a colaboração de dados em tempo real de qualquer lugar do mundo, uma característica fundamental na era do trabalho remoto. Como a maioria das organizações hoje está se movendo ou já está na nuvem, o conhecimento e a experiência em computação em nuvem tornaram-se habilidades essenciais para os engenheiros de dados.
+aditional-objectives:
+contents:
+  - type: YOUTUBE
+    title: "Gabs Ferreira: Por que investir e estudar cloud?"
+    link: https://www.youtube.com/watch?v=Z45BTNeZ1l0
+  - type: YOUTUBE
+    title: "Andre Iacono: O que é MICROSOFT AZURE? Qual Certificação começar em 2022?"
+    link: https://www.youtube.com/watch?v=f-oVzkvMwnE
+  - type: YOUTUBE
+    title: "AWS: O que é a AWS?"
+    link: https://www.youtube.com/watch?v=8JI9wQ8sUdQ
+  - type: YOUTUBE
+    title: "O que é Google Cloud e por que aprender?"
+    link: https://www.youtube.com/shorts/Lzq3f1DHWcI
+  - type: ARTICLE
+    title: "AWS vs Google Cloud vs Azure: o que cada um tem de melhor?"
+    link: https://medium.com/data-hackers/aws-vs-google-cloud-vs-azure-o-que-cada-um-tem-de-melhor-52107174f7b7
+  - type: YOUTUBE
+    title: "Código Fonte TV: Azure (A plataforma Cloud da Microsoft)"
+    link: https://www.youtube.com/watch?v=YgE-sZaCuJ0
+  - type: YOUTUBE
+    title: "Mundo da Cloud: AWS do Zero ao Expert"
+    link: https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz
+alura-contents:
+  - type: ARTICLE
+    title: "Cloud: o que é, História e Guia da computação em nuvem"
+    link: https://www.alura.com.br/artigos/cloud
+  - type: ARTICLE
+    title: "AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações"
+    link: https://www.alura.com.br/artigos/aws
+  - type: COURSE
+    title: "Formação Começando na AWS com Lightsail, EC2, S3, VPC, RDS e DynamoDB"
+    link: https://cursos.alura.com.br/formacao-amazon-web-services
+  - type: COURSE
+    title: "Formação Certificação AWS Certified Cloud Practitioner"
+    link: https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
+  - type: COURSE
+    title: "Formação Containers com AWS ECS e EKS"
+    link: https://cursos.alura.com.br/formacao-containers-aws
+  - type: COURSE
+    title: "Formação Google Cloud Platform"
+    link: https://cursos.alura.com.br/formacao-google-cloud
+  - type: COURSE
+    title: "Formação Certificação Google Certified Associate Cloud Engineer"
+    link: https://cursos.alura.com.br/formacao-google-certified-associate-cloud-engineer
+  - type: COURSE
+    title: "Formação Azure"
+    link: https://cursos.alura.com.br/formacao-conhecendo-azure
+  - type: COURSE
+    title: "Formação Certificação AZ-900: Microsoft Azure Fundamentals"
+    link: https://cursos.alura.com.br/formacao-certificacao-az-900-microsoft-azure-fundamentals

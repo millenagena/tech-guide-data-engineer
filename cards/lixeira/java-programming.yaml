@@ -1,0 +1,72 @@
+name: Programação - Java
+logo: 
+short-description:
+key-objectives:
+  - Java é uma linguagem de programação popular e amplamente utilizada, conhecida por sua portabilidade e robustez. Ela foi desenvolvida para ser usada em diferentes plataformas e ambientes, tornando-a uma escolha comum para o desenvolvimento de aplicativos empresariais, sistemas embarcados, aplicativos móveis e soluções de backend. Java é uma linguagem orientada a objetos que é compilada para bytecode, o que permite que os programas Java sejam executados em qualquer máquina virtual Java (JVM).
+  - Java desempenha um papel importante na engenharia de dados devido à sua ampla adoção em empresas e à sua capacidade de lidar com grandes volumes de dados. Muitos frameworks e ferramentas de processamento de dados, como Apache Hadoop e Apache Spark, são escritos em Java e fornecem recursos avançados para lidar com tarefas de processamento distribuído. Além disso, a linguagem Java é usada para interagir com bancos de dados, criar serviços de API, desenvolver aplicativos escaláveis e integrar sistemas de forma eficiente. Sua sintaxe clara e sua ênfase em boas práticas de programação também contribuem para a confiabilidade e manutenibilidade dos sistemas de engenharia de dados desenvolvidos em Java.
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "O que é Java?"
+    link: https://aws.amazon.com/pt/what-is/java/
+  - type: ARTICLE
+    title: "Aprenda Comigo: Java — Parte 1"
+    link: https://medium.com/clebertech/aprenda-comigo-java-parte-1-42ef8fddd8b6
+  - type: YOUTUBE
+    title: "FernandaDev: Java (Aula 1 - Classes, Objetos, Atributos e Métodos)"
+    link: https://www.youtube.com/watch?v=ohmHbdUhAGc
+  - type: YOUTUBE
+    title: "Loiane Groner: Primeiro Programa em Java"
+    link: https://youtu.be/mu2ti43cgwc
+alura-contents:
+  - type: ARTICLE
+    title: "Java: o que é, linguagem e um Guia para iniciar na tecnologia"
+    link: https://www.alura.com.br/artigos/java
+  - type: PODCAST
+    title: "Hipster 313 - Ecossistema Java revisitado"
+    link: https://www.hipsters.tech/ecossistema-java-revisitado-hipsters-ponto-tech-313/
+  - type: ARTICLE
+    title: "Como começar a desenvolver em Java?"
+    link: https://www.alura.com.br/artigos/comecando-com-o-desenvolvimento-java
+  - type: ARTICLE
+    title: "Meu primeiro programa em Java"
+    link: https://www.alura.com.br/artigos/meu-primeiro-programa-em-java
+  - type: ARTICLE
+    title: "Java: Conheça o método main"
+    link: https://www.alura.com.br/artigos/metodo-main-em-java
+  - type: ARTICLE
+    title: "Desenvolvendo aplicações Java com o VS Code"
+    link: https://www.alura.com.br/artigos/desenvolvendo-aplicacoes-java-vs-code
+  - type: ARTICLE
+    title: "Diferença entre int e Integer em Java"
+    link: https://www.alura.com.br/artigos/diferenca-entre-int-e-integer-em-java
+  - type: ARTICLE
+    title: "Como converter String para Date em Java"
+    link: https://www.alura.com.br/artigos/como-converter-string-para-date-em-java
+  - type: ARTICLE
+    title: "Iterando uma lista em Java"
+    link: https://www.alura.com.br/artigos/iterando-uma-lista-em-java
+  - type: ARTICLE
+    title: "Importando classes no Java"
+    link: https://www.alura.com.br/artigos/importando-classes-em-java
+  - type: SITE
+    title: "Apostila: Java e Orientação a Objetos"
+    link: https://www.alura.com.br/apostila-java-orientacao-objetos
+  - type: SITE
+    title: "Apostila: Java para Desenvolvimento Web"
+    link: https://www.alura.com.br/apostila-java-web
+  - type: YOUTUBE
+    title: "Alura: O que é o Java?"
+    link: https://www.youtube.com/watch?v=90NcVNsKGik
+  - type: YOUTUBE
+    title: "Alura: Curso de 'O básico de Java' - Aula 1"
+    link: https://www.youtube.com/watch?v=38BwTaGmnFg
+  - type: COURSE
+    title: "Formação Java e Orientação a Objetos"
+    link: https://cursos.alura.com.br/formacao-java
+  - type: COURSE
+    title: "Formação Java JRE e JDK: compile e execute o seu programa"
+    link: https://cursos.alura.com.br/course/java-primeiros-passos
+  - type: CHALLENGE
+    title: "7 Days of Code: Java"
+    link: https://7daysofcode.io/matricula/java
